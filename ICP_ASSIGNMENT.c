@@ -3,7 +3,7 @@
 // - Each slot is one hour.
 // - Students can manage their own booking.
 // - Each student can book a maximum of 3 continuous slots in a day.
-//changes
+//change
 #include "ICP_HEADER.h"
 
 void callMain();
